@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ModernWPF.Client</id>
+    <version>$version$</version>
+    <authors>gertjvr</authors>
+    <owners>gertjvr</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The ModernWPF.Client deployment package</description>
+    <releaseNotes />
+  </metadata>
+  <files>
+    <file src="bin\**\*.*" target="" />
+  </files>
+</package>
